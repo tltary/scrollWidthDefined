@@ -1,6 +1,6 @@
 {
   "name": "swd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Define browser scroll bar width for all os",
   "main": "swd.js",
   "scripts": {
@@ -11,7 +11,7 @@
   "keywords": [
     "scroll",
     "scrollbar",
-    "defined scroll",
+    "defined scroll"
   ],
   "repository": "tltary/scrollWidthDefined"
 }
