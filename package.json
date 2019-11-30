@@ -1,6 +1,6 @@
 {
   "name": "swd",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Define browser scroll bar width for all os",
   "main": "swd.js",
   "scripts": {
